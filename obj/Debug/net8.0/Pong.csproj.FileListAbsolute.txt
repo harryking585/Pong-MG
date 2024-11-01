@@ -23,3 +23,5 @@ c:\Users\User\Desktop\MonoGame Repos\Pong\obj\Debug\net8.0\refint\Pong.dll
 c:\Users\User\Desktop\MonoGame Repos\Pong\obj\Debug\net8.0\Pong.pdb
 c:\Users\User\Desktop\MonoGame Repos\Pong\obj\Debug\net8.0\Pong.genruntimeconfig.cache
 c:\Users\User\Desktop\MonoGame Repos\Pong\obj\Debug\net8.0\ref\Pong.dll
+c:\Users\User\Desktop\MonoGame Repos\Pong\bin\Debug\net8.0\Content\bumper.xnb
+c:\Users\User\Desktop\MonoGame Repos\Pong\obj\Debug\net8.0\Pong.sourcelink.json
